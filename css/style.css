@@ -1,0 +1,51 @@
+#container {
+    background: rgb(241, 198, 241);
+    font-size: 20px;
+    /* background-image: src="images/purple.jpeg"; */
+}
+
+
+#sec {
+    background: purple;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 40em;
+    padding: 2em;
+
+}
+
+#sec,
+label {
+    color: white;
+}
+
+#title {
+    text-align: center;
+    margin-bottom: 0em !important;
+}
+
+#description {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
+
+#textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1.5em;
+}
+
+#submit {
+    padding: .3em;
+    margin: .2em;
+    width: 85%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(181, 241, 51);
+    font-size: 15px;
+}

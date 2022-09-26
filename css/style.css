@@ -1,9 +1,7 @@
 #container {
     background: rgb(241, 198, 241);
-    font-size: 20px;
-    /* background-image: src="images/purple.jpeg"; */
+    font-size: 20px;    
 }
-
 
 #sec {
     background: purple;
@@ -37,15 +35,17 @@ label {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 1.5em;
+    margin-top: 0.2em;
 }
 
 #submit {
-    padding: .3em;
+    padding: .5em;
     margin: .2em;
-    width: 85%;
+    width: 20%;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    background: rgb(181, 241, 51);
+    background: rgb(0, 255, 21);
     font-size: 15px;
+    color: black;
 }

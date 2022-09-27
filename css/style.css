@@ -54,3 +54,12 @@ label {
 .survey {
   padding-top: 1em;
 }
+
+#name {
+  width: 100%;
+  
+}
+
+#email {
+  width: 100%;
+}
